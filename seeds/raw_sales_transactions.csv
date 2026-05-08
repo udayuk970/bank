@@ -1,0 +1,101 @@
+transaction_id,customer_id,visit_date,category,item_name,quantity,unit_price,total_amount,payment_method,location
+S001,C001,24-09-2023,food,Hot Dog & Drink,4,8.99,35.96,credit_card,Souvenir Shop East
+S002,C002,17-01-2024,merchandise,Horror Quarter Hoodie,4,49.99,199.96,cash,Midway Games
+S003,C003,31-10-2023,game,Skee-Ball Credits,4,2,8,kiosk,Thunder Dragon Photo Booth
+S004,C004,04-11-2023,photo,Digital Download,1,9.99,9.99,mobile,Splash Valley Snacks
+S005,C005,08-04-2024,food,Nachos,1,9.99,9.99,credit_card,Souvenir Shop West
+S006,C006,28-09-2024,merchandise,Cap,2,17.99,35.98,cash,Kids Corner Games
+S007,C007,16-04-2024,game,Whack-a-Mole,2,3.5,7,kiosk,Guest Services Kiosk
+S008,C008,14-10-2023,photo,Photo Keyring,1,14.99,14.99,mobile,Sweet Treats Stand
+S009,C009,20-08-2023,food,Cotton Candy,2,3.99,7.98,credit_card,Horror Merch Den
+S010,C010,28-08-2023,merchandise,Park T-Shirt,1,24.99,24.99,cash,Pizza Palace
+S011,C011,20-08-2023,game,Duck Pond,1,4,4,kiosk,Arcade Hall
+S012,C012,27-12-2023,photo,Green Screen Portrait,4,29.99,119.96,mobile,Chill Zone
+S013,C013,18-05-2024,food,Funnel Cake,4,14.99,59.96,credit_card,Photo Studio
+S014,C014,28-10-2023,merchandise,Snow Globe,1,19.99,19.99,cash,Main Street Grill
+S015,C015,27-09-2023,game,Coin Flip,3,3,9,kiosk,Souvenir Shop East
+S016,C016,27-05-2024,photo,Annual Pass Photo Card,3,19.99,59.97,mobile,Midway Games
+S017,C017,25-05-2024,food,Chicken Tenders,4,11.99,47.96,credit_card,Thunder Dragon Photo Booth
+S018,C018,07-07-2023,merchandise,Water Bottle,2,22.99,45.98,cash,Splash Valley Snacks
+S019,C019,16-09-2024,game,Fishing Game,3,2.5,7.5,kiosk,Souvenir Shop West
+S020,C020,08-07-2024,photo,Ride Photo Package,2,39.99,79.98,mobile,Kids Corner Games
+S021,C021,04-01-2024,food,Hot Dog & Drink,1,8.99,8.99,credit_card,Guest Services Kiosk
+S022,C022,05-03-2024,merchandise,Horror Quarter Hoodie,2,49.99,99.98,cash,Sweet Treats Stand
+S023,C023,27-04-2024,game,Skee-Ball Credits,2,2,4,kiosk,Horror Merch Den
+S024,C024,08-09-2024,photo,Digital Download,3,9.99,29.97,mobile,Pizza Palace
+S025,C025,28-07-2024,food,Nachos,2,9.99,19.98,credit_card,Arcade Hall
+S026,C026,07-07-2023,merchandise,Cap,1,17.99,17.99,cash,Chill Zone
+S027,C027,24-08-2023,game,Whack-a-Mole,3,3.5,10.5,kiosk,Photo Studio
+S028,C028,31-03-2024,photo,Photo Keyring,3,14.99,44.97,mobile,Main Street Grill
+S029,C029,11-01-2024,food,Cotton Candy,1,3.99,3.99,credit_card,Souvenir Shop East
+S030,C030,26-01-2024,merchandise,Park T-Shirt,3,24.99,74.97,cash,Midway Games
+S031,C031,24-05-2024,game,Duck Pond,4,4,16,kiosk,Thunder Dragon Photo Booth
+S032,C032,25-09-2024,photo,Green Screen Portrait,3,29.99,89.97,mobile,Splash Valley Snacks
+S033,C033,12-02-2024,food,Funnel Cake,4,14.99,59.96,credit_card,Souvenir Shop West
+S034,C034,11-01-2024,merchandise,Snow Globe,1,19.99,19.99,cash,Kids Corner Games
+S035,C035,02-04-2024,game,Coin Flip,1,3,3,kiosk,Guest Services Kiosk
+S036,C036,29-08-2024,photo,Annual Pass Photo Card,4,19.99,79.96,mobile,Sweet Treats Stand
+S037,C037,11-06-2024,food,Chicken Tenders,3,11.99,35.97,credit_card,Horror Merch Den
+S038,C038,05-04-2024,merchandise,Water Bottle,3,22.99,68.97,cash,Pizza Palace
+S039,C039,14-06-2023,game,Fishing Game,1,2.5,2.5,kiosk,Arcade Hall
+S040,C040,26-09-2023,photo,Ride Photo Package,1,39.99,39.99,mobile,Chill Zone
+S041,C041,26-06-2024,food,Hot Dog & Drink,3,8.99,26.97,credit_card,Photo Studio
+S042,C042,22-03-2024,merchandise,Horror Quarter Hoodie,1,49.99,49.99,cash,Main Street Grill
+S043,C043,25-06-2024,game,Skee-Ball Credits,2,2,4,kiosk,Souvenir Shop East
+S044,C044,27-01-2024,photo,Digital Download,4,9.99,39.96,mobile,Midway Games
+S045,C045,12-09-2024,food,Nachos,3,9.99,29.97,credit_card,Thunder Dragon Photo Booth
+S046,C046,01-09-2023,merchandise,Cap,4,17.99,71.96,cash,Splash Valley Snacks
+S047,C047,21-04-2024,game,Whack-a-Mole,4,3.5,14,kiosk,Souvenir Shop West
+S048,C048,17-07-2023,photo,Photo Keyring,4,14.99,59.96,mobile,Kids Corner Games
+S049,C049,26-11-2023,food,Cotton Candy,4,3.99,15.96,credit_card,Guest Services Kiosk
+S050,C050,18-11-2023,merchandise,Park T-Shirt,3,24.99,74.97,cash,Sweet Treats Stand
+S051,C051,09-05-2024,game,Duck Pond,1,4,4,kiosk,Horror Merch Den
+S052,C052,13-08-2024,photo,Green Screen Portrait,2,29.99,59.98,mobile,Pizza Palace
+S053,C053,16-11-2023,food,Funnel Cake,4,14.99,59.96,credit_card,Arcade Hall
+S054,C054,21-05-2024,merchandise,Snow Globe,4,19.99,79.96,cash,Chill Zone
+S055,C055,26-10-2023,game,Coin Flip,4,3,12,kiosk,Photo Studio
+S056,C056,21-07-2024,photo,Annual Pass Photo Card,1,19.99,19.99,mobile,Main Street Grill
+S057,C057,19-01-2024,food,Chicken Tenders,1,11.99,11.99,credit_card,Souvenir Shop East
+S058,C058,09-11-2023,merchandise,Water Bottle,3,22.99,68.97,cash,Midway Games
+S059,C059,13-11-2023,game,Fishing Game,1,2.5,2.5,kiosk,Thunder Dragon Photo Booth
+S060,C060,30-06-2024,photo,Ride Photo Package,4,39.99,159.96,mobile,Splash Valley Snacks
+S061,C061,16-08-2024,food,Hot Dog & Drink,1,8.99,8.99,credit_card,Souvenir Shop West
+S062,C062,02-05-2024,merchandise,Horror Quarter Hoodie,4,49.99,199.96,cash,Kids Corner Games
+S063,C063,29-12-2023,game,Skee-Ball Credits,1,2,2,kiosk,Guest Services Kiosk
+S064,C064,05-09-2023,photo,Digital Download,3,9.99,29.97,mobile,Sweet Treats Stand
+S065,C065,14-04-2024,food,Nachos,4,9.99,39.96,credit_card,Horror Merch Den
+S066,C066,16-04-2024,merchandise,Cap,4,17.99,71.96,cash,Pizza Palace
+S067,C067,24-06-2024,game,Whack-a-Mole,1,3.5,3.5,kiosk,Arcade Hall
+S068,C068,13-09-2023,photo,Photo Keyring,3,14.99,44.97,mobile,Chill Zone
+S069,C069,08-03-2024,food,Cotton Candy,2,3.99,7.98,credit_card,Photo Studio
+S070,C070,17-09-2024,merchandise,Park T-Shirt,3,24.99,74.97,cash,Main Street Grill
+S071,C071,11-01-2024,game,Duck Pond,4,4,16,kiosk,Souvenir Shop East
+S072,C072,02-08-2023,photo,Green Screen Portrait,1,29.99,29.99,mobile,Midway Games
+S073,C073,18-04-2024,food,Funnel Cake,2,14.99,29.98,credit_card,Thunder Dragon Photo Booth
+S074,C074,29-05-2024,merchandise,Snow Globe,2,19.99,39.98,cash,Splash Valley Snacks
+S075,C075,07-11-2023,game,Coin Flip,1,3,3,kiosk,Souvenir Shop West
+S076,C076,09-03-2024,photo,Annual Pass Photo Card,4,19.99,79.96,mobile,Kids Corner Games
+S077,C077,18-07-2023,food,Chicken Tenders,2,11.99,23.98,credit_card,Guest Services Kiosk
+S078,C078,04-08-2024,merchandise,Water Bottle,1,22.99,22.99,cash,Sweet Treats Stand
+S079,C079,23-01-2024,game,Fishing Game,1,2.5,2.5,kiosk,Horror Merch Den
+S080,C080,27-04-2024,photo,Ride Photo Package,2,39.99,79.98,mobile,Pizza Palace
+S081,C081,11-02-2024,food,Hot Dog & Drink,3,8.99,26.97,credit_card,Arcade Hall
+S082,C082,16-02-2024,merchandise,Horror Quarter Hoodie,3,49.99,149.97,cash,Chill Zone
+S083,C083,30-12-2023,game,Skee-Ball Credits,4,2,8,kiosk,Photo Studio
+S084,C084,28-01-2024,photo,Digital Download,2,9.99,19.98,mobile,Main Street Grill
+S085,C085,20-01-2024,food,Nachos,2,9.99,19.98,credit_card,Souvenir Shop East
+S086,C086,14-12-2023,merchandise,Cap,2,17.99,35.98,cash,Midway Games
+S087,C087,14-09-2024,game,Whack-a-Mole,2,3.5,7,kiosk,Thunder Dragon Photo Booth
+S088,C088,16-08-2024,photo,Photo Keyring,1,14.99,14.99,mobile,Splash Valley Snacks
+S089,C089,20-10-2023,food,Cotton Candy,4,3.99,15.96,credit_card,Souvenir Shop West
+S090,C090,22-11-2023,merchandise,Park T-Shirt,3,24.99,74.97,cash,Kids Corner Games
+S091,C091,25-07-2024,game,Duck Pond,1,4,4,kiosk,Guest Services Kiosk
+S092,C092,23-10-2023,photo,Green Screen Portrait,3,29.99,89.97,mobile,Sweet Treats Stand
+S093,C093,02-08-2024,food,Funnel Cake,4,14.99,59.96,credit_card,Horror Merch Den
+S094,C094,17-08-2024,merchandise,Snow Globe,2,19.99,39.98,cash,Pizza Palace
+S095,C095,15-01-2024,game,Coin Flip,4,3,12,kiosk,Arcade Hall
+S096,C096,24-11-2023,photo,Annual Pass Photo Card,3,19.99,59.97,mobile,Chill Zone
+S097,C097,09-03-2024,food,Chicken Tenders,4,11.99,47.96,credit_card,Photo Studio
+S098,C098,20-01-2024,merchandise,Water Bottle,3,22.99,68.97,cash,Main Street Grill
+S099,C099,19-08-2024,game,Fishing Game,2,2.5,5,kiosk,Souvenir Shop East
+S100,C100,23-05-2024,photo,Ride Photo Package,2,39.99,79.98,mobile,Midway Games

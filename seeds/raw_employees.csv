@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,department,role,hire_date,hourly_rate,manager_id,is_active,zone_assignment
+E001,Alice,Harper,operations,Park Director,29-10-2022,30.32,,TRUE,All Zones
+E002,Bob,Chen,food_beverage,Shift Supervisor,20-03-2019,16.75,,TRUE,Adventure Zone
+E003,Carol,Diaz,merchandise,Sales Associate,10-08-2020,43.21,,TRUE,Horror Quarter
+E004,David,Kim,security,Gate Agent,21-07-2018,30.44,,TRUE,Splash Valley
+E005,Eva,Patel,guest_services,Accessibility Coordinator,31-05-2013,34.81,,TRUE,Family Land
+E006,Frank,Nguyen,maintenance,Maintenance Supervisor,31-10-2010,20.05,,TRUE,Kids Corner
+E007,Grace,Okafor,operations,Zone Manager,28-03-2023,28.28,,TRUE,All Zones
+E008,Henry,Rossi,food_beverage,Cook,02-04-2012,49.97,E001,FALSE,Adventure Zone
+E009,Isla,MÃ¼ller,merchandise,Stock Associate,16-11-2019,18.99,E002,TRUE,Horror Quarter
+E010,James,Torres,security,Patrol Officer,01-04-2020,15.61,E003,TRUE,Splash Valley
+E011,Karen,Webb,guest_services,Guest Services Lead,26-03-2013,31.4,E004,TRUE,Family Land
+E012,Liam,Flynn,maintenance,Technician,18-06-2013,17.99,E005,TRUE,Kids Corner
+E013,Mia,Sharma,operations,Ride Supervisor,12-12-2015,28.54,E006,TRUE,All Zones
+E014,Noah,Bauer,food_beverage,Cashier,01-12-2018,40.99,E007,TRUE,Adventure Zone
+E015,Olivia,Brooks,merchandise,Cashier,15-05-2017,49.09,E001,TRUE,Horror Quarter
+E016,Paul,Hassan,security,Security Chief,20-12-2021,30.2,E002,FALSE,Splash Valley
+E017,Quinn,Park,guest_services,Guest Ambassador,07-02-2017,40.07,E003,TRUE,Family Land
+E018,Rosa,Evans,maintenance,Electrician,11-12-2020,49.9,E004,TRUE,Kids Corner
+E019,Sam,Obi,operations,Ride Operator,22-10-2010,39.7,E005,TRUE,All Zones
+E020,Tina,Volkov,food_beverage,Food Runner,08-04-2015,40.25,E006,TRUE,Adventure Zone
+E021,Uma,Reyes,merchandise,Retail Manager,12-06-2016,54.9,E007,TRUE,Horror Quarter
+E022,Victor,Ali,security,Security Supervisor,11-01-2012,32.36,E001,TRUE,Splash Valley
+E023,Wendy,Cooper,guest_services,Information Desk,17-03-2012,45.41,E002,TRUE,Family Land
+E024,Xander,Lin,maintenance,Plumber,03-04-2012,32.75,E003,FALSE,Kids Corner
+E025,Yara,Scott,operations,Safety Inspector,19-09-2016,51.14,E004,TRUE,All Zones
+E026,Zoe,Flynn,food_beverage,F&B Manager,12-01-2011,27.97,E005,TRUE,Adventure Zone
+E027,Aaron,Wright,merchandise,Sales Lead,05-04-2011,26.73,E006,TRUE,Horror Quarter
+E028,Beth,Hall,security,Security Officer,29-05-2018,32.23,E007,TRUE,Splash Valley
+E029,Cole,Young,guest_services,Ticketing Agent,24-06-2015,36.25,E001,TRUE,Family Land
+E030,Dana,King,maintenance,Groundskeeper,11-09-2022,42.27,E002,TRUE,Kids Corner
+E031,Eli,Lee,operations,Park Director,15-01-2014,21.8,E003,TRUE,All Zones
+E032,Fiona,Walker,food_beverage,Shift Supervisor,09-10-2011,39.38,E004,FALSE,Adventure Zone
+E033,Gary,Allen,merchandise,Sales Associate,31-07-2018,39.79,E005,TRUE,Horror Quarter
+E034,Hana,Hill,security,Gate Agent,27-05-2015,34.91,E006,TRUE,Splash Valley
+E035,Ivan,Moore,guest_services,Accessibility Coordinator,30-01-2023,20.72,E007,TRUE,Family Land
+E036,Julia,Taylor,maintenance,Maintenance Supervisor,05-05-2020,40.52,E001,TRUE,Kids Corner
+E037,Kyle,Anderson,operations,Zone Manager,22-04-2020,25.21,E002,TRUE,All Zones
+E038,Luna,Thomas,food_beverage,Cook,18-03-2010,50.96,E003,TRUE,Adventure Zone
+E039,Mike,Jackson,merchandise,Stock Associate,08-06-2020,51.05,E004,TRUE,Horror Quarter
+E040,Nina,White,security,Patrol Officer,05-04-2022,21.32,E005,FALSE,Splash Valley
+E041,Oscar,Harris,guest_services,Guest Services Lead,28-11-2019,52.81,E006,TRUE,Family Land
+E042,Petra,Martin,maintenance,Technician,07-03-2023,26.97,E007,TRUE,Kids Corner
+E043,Raj,Garcia,operations,Ride Supervisor,08-07-2019,42.61,E001,TRUE,All Zones
+E044,Sara,Martinez,food_beverage,Cashier,31-03-2020,48.81,E002,TRUE,Adventure Zone
+E045,Tom,Robinson,merchandise,Cashier,20-06-2014,54.97,E003,TRUE,Horror Quarter
+E046,Ursula,Clark,security,Security Chief,02-11-2020,19.27,E004,TRUE,Splash Valley
+E047,Vince,Rodriguez,guest_services,Guest Ambassador,22-07-2018,37.88,E005,TRUE,Family Land
+E048,Wren,Lewis,maintenance,Electrician,22-11-2022,26.83,E006,FALSE,Kids Corner
+E049,Xia,Lewis,operations,Ride Operator,15-08-2016,15.88,E007,TRUE,All Zones
+E050,Yusuf,Robinson,food_beverage,Food Runner,17-11-2018,25.98,E001,TRUE,Adventure Zone
+E051,Zara,Davis,merchandise,Retail Manager,11-09-2022,49.6,E002,TRUE,Horror Quarter
+E052,Adam,Miller,security,Security Supervisor,06-02-2011,51.42,E003,TRUE,Splash Valley
+E053,Bella,Wilson,guest_services,Information Desk,21-02-2021,48.31,E004,TRUE,Family Land
+E054,Carlos,Johnson,maintenance,Plumber,02-06-2016,46.03,E005,TRUE,Kids Corner
+E055,Diana,Jones,operations,Safety Inspector,01-03-2015,39.28,E006,TRUE,All Zones
+E056,Ethan,Brown,food_beverage,F&B Manager,26-11-2017,23.76,E007,FALSE,Adventure Zone
+E057,Freya,Lopez,merchandise,Sales Lead,07-04-2014,39.84,E001,TRUE,Horror Quarter
+E058,Glen,Gonzalez,security,Security Officer,25-01-2013,40.13,E002,TRUE,Splash Valley
+E059,Holly,Perez,guest_services,Ticketing Agent,19-11-2010,27.36,E003,TRUE,Family Land
+E060,Ian,Sanchez,maintenance,Groundskeeper,21-11-2019,16.33,E004,TRUE,Kids Corner
+E061,Jade,Ramirez,operations,Park Director,08-03-2018,44.29,E005,TRUE,All Zones
+E062,Kurt,Reed,food_beverage,Shift Supervisor,09-01-2012,51.39,E006,TRUE,Adventure Zone
+E063,Layla,Bailey,merchandise,Sales Associate,30-04-2017,44.9,E007,TRUE,Horror Quarter
+E064,Max,Bell,security,Gate Agent,09-12-2013,23.03,E001,FALSE,Splash Valley
+E065,Nora,Cox,guest_services,Accessibility Coordinator,05-02-2022,50.06,E002,TRUE,Family Land
+E066,Owen,Ward,maintenance,Maintenance Supervisor,17-03-2018,36.23,E003,TRUE,Kids Corner
+E067,Priya,James,operations,Zone Manager,11-02-2016,48.22,E004,TRUE,All Zones
+E068,Quinn,Watson,food_beverage,Cook,07-10-2015,51.56,E005,TRUE,Adventure Zone
+E069,Ruby,Brooks,merchandise,Stock Associate,22-10-2020,53.7,E006,TRUE,Horror Quarter
+E070,Steve,Kelly,security,Patrol Officer,14-08-2016,44.86,E007,TRUE,Splash Valley
+E071,Tamara,Howard,guest_services,Guest Services Lead,06-08-2017,47.17,E001,TRUE,Family Land
+E072,Umar,Green,maintenance,Technician,03-07-2020,53.52,E002,FALSE,Kids Corner
+E073,Vera,Powell,operations,Ride Supervisor,27-02-2013,45.17,E003,TRUE,All Zones
+E074,Will,Wood,food_beverage,Cashier,23-01-2015,49.41,E004,TRUE,Adventure Zone
+E075,Xena,Ellis,merchandise,Cashier,30-11-2018,53.69,E005,TRUE,Horror Quarter
+E076,Yuki,Richardson,security,Security Chief,02-07-2022,29.63,E006,TRUE,Splash Valley
+E077,Zack,Murphy,guest_services,Guest Ambassador,07-11-2018,15.56,E007,TRUE,Family Land
+E078,Amy,Price,maintenance,Electrician,13-01-2022,19.94,E001,TRUE,Kids Corner
+E079,Brad,Hughes,operations,Ride Operator,08-04-2018,41.91,E002,TRUE,All Zones
+E080,Cleo,Foster,food_beverage,Food Runner,18-11-2015,38.38,E003,FALSE,Adventure Zone
+E081,Derek,Bryant,merchandise,Retail Manager,02-05-2018,19.33,E004,TRUE,Horror Quarter
+E082,Elle,Barnes,security,Security Supervisor,31-03-2015,33.86,E005,TRUE,Splash Valley
+E083,Felix,Henderson,guest_services,Information Desk,24-11-2023,50.37,E006,TRUE,Family Land
+E084,Gina,Simmons,maintenance,Plumber,05-08-2022,28.12,E007,TRUE,Kids Corner
+E085,Hugo,Murphy,operations,Safety Inspector,07-09-2023,23.85,E001,TRUE,All Zones
+E086,Irene,Perry,food_beverage,F&B Manager,02-06-2011,40.42,E002,TRUE,Adventure Zone
+E087,Joel,Russell,merchandise,Sales Lead,31-05-2020,51.38,E003,TRUE,Horror Quarter
+E088,Kira,Jenkins,security,Security Officer,11-10-2016,40.97,E004,FALSE,Splash Valley
+E089,Lars,Griffin,guest_services,Ticketing Agent,13-08-2012,20.59,E005,TRUE,Family Land
+E090,Maya,Coleman,maintenance,Groundskeeper,01-11-2010,27.17,E006,TRUE,Kids Corner
+E091,Neil,Dixon,operations,Park Director,18-01-2021,19.64,E007,TRUE,All Zones
+E092,Opal,Patterson,food_beverage,Shift Supervisor,08-04-2015,50.49,E001,TRUE,Adventure Zone
+E093,Pete,Owens,merchandise,Sales Associate,16-01-2013,30.55,E002,TRUE,Horror Quarter
+E094,Queen,Morris,security,Gate Agent,28-04-2018,41.82,E003,TRUE,Splash Valley
+E095,Rex,Carroll,guest_services,Accessibility Coordinator,12-02-2022,31.77,E004,TRUE,Family Land
+E096,Sofia,Dean,maintenance,Maintenance Supervisor,19-06-2013,50.42,E005,FALSE,Kids Corner
+E097,Troy,Long,operations,Zone Manager,22-03-2012,48.35,E006,TRUE,All Zones
+E098,Ursa,Bishop,food_beverage,Cook,23-10-2023,31.32,E007,TRUE,Adventure Zone
+E099,Vada,Reynolds,merchandise,Stock Associate,10-04-2016,16.31,E001,TRUE,Horror Quarter
+E100,Walt,Webb,security,Patrol Officer,24-04-2018,23.69,E002,TRUE,Splash Valley

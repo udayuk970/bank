@@ -1,0 +1,101 @@
+raw_feedback,feedback_id,customer_id,visit_date,ride_id,rating,category,sentiment,comments,submitted_at
+F001,C001,14-01-2024,R001,1,ride,negative,Staff seemed disinterested and unhelpful.,28-01-2024 13:06
+F002,C002,17-05-2024,R002,2,food,negative,Overpriced food with tiny portions.,11-06-2024 16:57
+F003,C003,26-04-2024,,3,general,neutral,Ride was fine, food was mediocre.,02-06-2024 08:25
+F004,C004,20-10-2023,R004,4,wait_times,positive,Clean, well-organised and so much fun.,12-12-2023 09:54
+F005,C005,26-07-2024,R005,5,staff,positive,Absolutely loved it! Will come back soon.,08-09-2024 09:42
+F006,C006,17-09-2023,,1,cleanliness,negative,Staff seemed disinterested and unhelpful.,22-06-2023 08:50
+F007,C007,18-11-2023,R007,2,ride,negative,Overpriced food with tiny portions.,05-02-2024 10:50
+F008,C008,16-03-2024,R008,3,food,neutral,Ride was fine, food was mediocre.,28-12-2023 09:53
+F009,C009,26-06-2024,,4,general,positive,Clean, well-organised and so much fun.,30-12-2023 17:13
+F010,C010,21-07-2024,R010,5,wait_times,positive,Absolutely loved it! Will come back soon.,25-01-2024 13:49
+F011,C011,15-08-2023,R011,1,staff,negative,Staff seemed disinterested and unhelpful.,03-06-2023 12:54
+F012,C012,14-08-2023,,2,cleanliness,negative,Overpriced food with tiny portions.,12-10-2023 16:16
+F013,C013,13-07-2024,R013,3,ride,neutral,Ride was fine, food was mediocre.,26-11-2023 09:42
+F014,C014,17-08-2024,R014,4,food,positive,Clean, well-organised and so much fun.,27-06-2023 10:00
+F015,C015,01-12-2023,,5,general,positive,Absolutely loved it! Will come back soon.,30-01-2024 17:20
+F016,C016,09-06-2023,R016,1,wait_times,negative,Staff seemed disinterested and unhelpful.,26-11-2023 12:03
+F017,C017,04-08-2023,R017,2,staff,negative,Overpriced food with tiny portions.,05-08-2024 16:07
+F018,C018,16-06-2024,,3,cleanliness,neutral,Ride was fine, food was mediocre.,05-08-2023 15:28
+F019,C019,03-07-2024,R019,4,ride,positive,Clean, well-organised and so much fun.,05-06-2024 16:37
+F020,C020,26-07-2023,R020,5,food,positive,Absolutely loved it! Will come back soon.,05-09-2024 16:14
+F021,C021,27-09-2024,,1,general,negative,Staff seemed disinterested and unhelpful.,15-07-2023 19:50
+F022,C022,08-09-2024,R022,2,wait_times,negative,Overpriced food with tiny portions.,04-04-2024 15:41
+F023,C023,16-06-2023,R023,3,staff,neutral,Ride was fine, food was mediocre.,02-08-2023 15:54
+F024,C024,23-12-2023,,4,cleanliness,positive,Clean, well-organised and so much fun.,10-08-2024 18:06
+F025,C025,07-02-2024,R025,5,ride,positive,Absolutely loved it! Will come back soon.,28-08-2024 09:57
+F026,C026,12-07-2023,R026,1,food,negative,Staff seemed disinterested and unhelpful.,25-04-2024 17:09
+F027,C027,04-07-2023,,2,general,negative,Overpriced food with tiny portions.,08-10-2023 12:39
+F028,C028,20-04-2024,R028,3,wait_times,neutral,Ride was fine, food was mediocre.,28-04-2024 14:38
+F029,C029,27-02-2024,R029,4,staff,positive,Clean, well-organised and so much fun.,28-03-2024 15:32
+F030,C030,05-04-2024,,5,cleanliness,positive,Absolutely loved it! Will come back soon.,14-08-2024 09:50
+F031,C031,25-05-2024,R031,1,ride,negative,Staff seemed disinterested and unhelpful.,26-09-2023 18:41
+F032,C032,23-08-2024,R032,2,food,negative,Overpriced food with tiny portions.,07-01-2024 14:28
+F033,C033,28-08-2024,,3,general,neutral,Ride was fine, food was mediocre.,20-01-2024 14:21
+F034,C034,28-07-2024,R034,4,wait_times,positive,Clean, well-organised and so much fun.,07-09-2024 14:26
+F035,C035,08-06-2024,R035,5,staff,positive,Absolutely loved it! Will come back soon.,06-09-2023 13:27
+F036,C036,08-11-2023,,1,cleanliness,negative,Staff seemed disinterested and unhelpful.,17-02-2024 13:09
+F037,C037,17-05-2024,R037,2,ride,negative,Overpriced food with tiny portions.,28-09-2024 09:05
+F038,C038,30-07-2024,R038,3,food,neutral,Ride was fine, food was mediocre.,27-08-2023 09:27
+F039,C039,20-07-2023,,4,general,positive,Clean, well-organised and so much fun.,16-06-2024 20:08
+F040,C040,11-03-2024,R040,5,wait_times,positive,Absolutely loved it! Will come back soon.,01-08-2023 17:35
+F041,C041,14-03-2024,R041,1,staff,negative,Staff seemed disinterested and unhelpful.,03-05-2024 18:07
+F042,C042,28-12-2023,,2,cleanliness,negative,Overpriced food with tiny portions.,28-05-2024 18:48
+F043,C043,03-01-2024,R043,3,ride,neutral,Ride was fine, food was mediocre.,23-07-2023 12:38
+F044,C044,07-11-2023,R044,4,food,positive,Clean, well-organised and so much fun.,26-05-2024 09:36
+F045,C045,15-02-2024,,5,general,positive,Absolutely loved it! Will come back soon.,04-01-2024 10:42
+F046,C046,02-02-2024,R046,1,wait_times,negative,Staff seemed disinterested and unhelpful.,16-01-2024 09:22
+F047,C047,06-08-2024,R047,2,staff,negative,Overpriced food with tiny portions.,11-06-2024 09:48
+F048,C048,21-10-2023,,3,cleanliness,neutral,Ride was fine, food was mediocre.,18-01-2024 20:27
+F049,C049,06-08-2024,R049,4,ride,positive,Clean, well-organised and so much fun.,27-06-2023 17:59
+F050,C050,02-05-2024,R050,5,food,positive,Absolutely loved it! Will come back soon.,29-02-2024 08:11
+F051,C051,18-10-2023,,1,general,negative,Staff seemed disinterested and unhelpful.,12-04-2024 13:22
+F052,C052,04-06-2023,R052,2,wait_times,negative,Overpriced food with tiny portions.,03-12-2023 10:36
+F053,C053,02-05-2024,R053,3,staff,neutral,Ride was fine, food was mediocre.,15-07-2024 09:09
+F054,C054,14-06-2024,,4,cleanliness,positive,Clean, well-organised and so much fun.,02-07-2023 09:47
+F055,C055,27-02-2024,R055,5,ride,positive,Absolutely loved it! Will come back soon.,07-01-2024 14:26
+F056,C056,19-01-2024,R056,1,food,negative,Staff seemed disinterested and unhelpful.,15-05-2024 10:23
+F057,C057,07-11-2023,,2,general,negative,Overpriced food with tiny portions.,28-04-2024 20:36
+F058,C058,01-04-2024,R058,3,wait_times,neutral,Ride was fine, food was mediocre.,26-08-2023 08:09
+F059,C059,20-08-2023,R059,4,staff,positive,Clean, well-organised and so much fun.,21-07-2023 18:05
+F060,C060,18-10-2023,,5,cleanliness,positive,Absolutely loved it! Will come back soon.,27-08-2024 18:27
+F061,C061,04-02-2024,R061,1,ride,negative,Staff seemed disinterested and unhelpful.,26-08-2024 14:17
+F062,C062,19-09-2023,R062,2,food,negative,Overpriced food with tiny portions.,25-09-2023 13:27
+F063,C063,27-07-2023,,3,general,neutral,Ride was fine, food was mediocre.,17-03-2024 18:43
+F064,C064,30-03-2024,R064,4,wait_times,positive,Clean, well-organised and so much fun.,11-10-2024 16:42
+F065,C065,05-11-2023,R065,5,staff,positive,Absolutely loved it! Will come back soon.,17-07-2023 11:25
+F066,C066,02-04-2024,,1,cleanliness,negative,Staff seemed disinterested and unhelpful.,27-07-2023 08:13
+F067,C067,02-11-2023,R067,2,ride,negative,Overpriced food with tiny portions.,03-01-2024 20:08
+F068,C068,26-06-2024,R068,3,food,neutral,Ride was fine, food was mediocre.,17-02-2024 12:20
+F069,C069,01-08-2023,,4,general,positive,Clean, well-organised and so much fun.,08-06-2023 15:47
+F070,C070,07-01-2024,R070,5,wait_times,positive,Absolutely loved it! Will come back soon.,27-11-2023 10:24
+F071,C071,28-02-2024,R071,1,staff,negative,Staff seemed disinterested and unhelpful.,22-01-2024 16:35
+F072,C072,31-07-2024,,2,cleanliness,negative,Overpriced food with tiny portions.,28-05-2024 09:25
+F073,C073,15-08-2024,R073,3,ride,neutral,Ride was fine, food was mediocre.,14-07-2023 14:01
+F074,C074,22-01-2024,R074,4,food,positive,Clean, well-organised and so much fun.,19-08-2023 13:36
+F075,C075,06-01-2024,,5,general,positive,Absolutely loved it! Will come back soon.,19-07-2024 19:40
+F076,C076,31-12-2023,R076,1,wait_times,negative,Staff seemed disinterested and unhelpful.,23-03-2024 09:25
+F077,C077,11-06-2023,R077,2,staff,negative,Overpriced food with tiny portions.,28-04-2024 10:51
+F078,C078,28-09-2024,,3,cleanliness,neutral,Ride was fine, food was mediocre.,14-09-2024 19:58
+F079,C079,03-12-2023,R079,4,ride,positive,Clean, well-organised and so much fun.,30-08-2023 14:54
+F080,C080,25-07-2023,R080,5,food,positive,Absolutely loved it! Will come back soon.,05-02-2024 14:37
+F081,C081,23-12-2023,,1,general,negative,Staff seemed disinterested and unhelpful.,20-08-2023 14:55
+F082,C082,06-11-2023,R082,2,wait_times,negative,Overpriced food with tiny portions.,13-05-2024 11:21
+F083,C083,03-07-2024,R083,3,staff,neutral,Ride was fine, food was mediocre.,20-11-2023 09:32
+F084,C084,20-04-2024,,4,cleanliness,positive,Clean, well-organised and so much fun.,25-09-2023 16:32
+F085,C085,08-09-2023,R085,5,ride,positive,Absolutely loved it! Will come back soon.,23-05-2024 13:46
+F086,C086,24-07-2024,R086,1,food,negative,Staff seemed disinterested and unhelpful.,30-10-2023 11:06
+F087,C087,14-08-2023,,2,general,negative,Overpriced food with tiny portions.,18-02-2024 11:11
+F088,C088,04-04-2024,R088,3,wait_times,neutral,Ride was fine, food was mediocre.,04-11-2023 20:48
+F089,C089,01-05-2024,R089,4,staff,positive,Clean, well-organised and so much fun.,17-08-2023 10:49
+F090,C090,17-04-2024,,5,cleanliness,positive,Absolutely loved it! Will come back soon.,18-10-2024 15:48
+F091,C091,15-03-2024,R091,1,ride,negative,Staff seemed disinterested and unhelpful.,02-09-2024 18:59
+F092,C092,25-08-2024,R092,2,food,negative,Overpriced food with tiny portions.,26-04-2024 18:20
+F093,C093,17-08-2023,,3,general,neutral,Ride was fine, food was mediocre.,24-08-2024 09:30
+F094,C094,13-01-2024,R094,4,wait_times,positive,Clean, well-organised and so much fun.,06-04-2024 20:17
+F095,C095,29-03-2024,R095,5,staff,positive,Absolutely loved it! Will come back soon.,28-07-2023 13:32
+F096,C096,08-07-2023,,1,cleanliness,negative,Staff seemed disinterested and unhelpful.,13-04-2024 15:28
+F097,C097,20-06-2023,R097,2,ride,negative,Overpriced food with tiny portions.,29-07-2023 13:53
+F098,C098,25-10-2023,R098,3,food,neutral,Ride was fine, food was mediocre.,18-08-2023 18:55
+F099,C099,11-08-2024,,4,general,positive,Clean, well-organised and so much fun.,01-09-2023 17:38
+F100,C100,15-02-2024,R100,5,wait_times,positive,Absolutely loved it! Will come back soon.,28-06-2024 15:37
