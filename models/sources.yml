@@ -199,7 +199,7 @@ sources:
               - not_null
               - relationships:
                   arguments:
-                    to: source('raw', 'raw_customers')
+                    to: source('my_new_project', 'raw_customers')
                     field: customer_id
                   config:
                     store_failures: true   # inspect ticket_ids whose customer_id has no match in raw_customers
@@ -371,6 +371,7 @@ sources:
             description: Primary park zone the employee is assigned to
 
       - name: raw_feedback
+        
         description: >
           Guest satisfaction feedback submitted after visits.
           One row per feedback submission.
@@ -624,7 +625,7 @@ sources:
             tests: [not_null]
 
   - name: feedback
-    description: Visitor feedback — mapped to RAW.raw_feedback
+    description: Visitor feedback — mapped to DBT_DEV_SCHEMA.raw_feedback
     database: DEV_DB
     schema: DBT_DEV_SCHEMA
     # tags: ['feedback', 'bronze']
@@ -637,6 +638,7 @@ sources:
     tables:
       - name: visitor_feedback
         identifier: raw_feedback
+        
         description: Post-visit feedback from raw_feedback
         # tags: ['feedback', 'ratings']
         # meta:
@@ -650,6 +652,7 @@ sources:
             tests: [unique, not_null]
           - name: visit_date
             tests: [not_null]
+            
 
   - name: external_haunted
     description: Haunted house data — mapped to raw_rides and raw_tickets

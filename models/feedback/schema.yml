@@ -1,0 +1,40 @@
+version: 2
+
+models:
+  - name: stg_feedback__visitor_feedback
+    description: Cleaned customer feedback and ratings submitted after visits
+    columns:
+      - name: feedback_id
+        description: Primary key for feedback records
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+      - name: rating
+        description: Customer rating from 1 (worst) to 5 (best)
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [1, 2, 3, 4, 5]
+      - name: category
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['ride', 'food', 'general', 'wait_times', 'staff', 'cleanliness']
+      - name: sentiment
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['positive', 'neutral', 'negative']
+      - name: rating_category
+        description: Derived sentiment tier based on numeric rating
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['positive', 'neutral', 'negative']
