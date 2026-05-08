@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: stg_customer_data__customers
+    description: Cleaned and renamed customer records from the customer_data source
+    columns:
+      - name: customer_id
+        description: Primary key for customers
+        tests:
+          - unique
+          - not_null
+      - name: email
+        description: Lowercased customer email address
+        tests:
+          - unique
+          - not_null
+      - name: is_vip_member
+        description: Whether the customer holds a gold or platinum membership
+        tests:
+          - not_null

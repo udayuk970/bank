@@ -1,0 +1,34 @@
+version: 2
+
+models:
+  - name: stg_external_haunted__haunted_houses
+    description: Haunted house dimension records mapped from raw_rides (is_haunted = true)
+    columns:
+      - name: haunted_house_id
+        description: Primary key for haunted houses (ride_id from raw_rides)
+        tests:
+          - unique
+          - not_null
+      - name: haunted_house_name
+        description: Display name of the haunted house
+        tests:
+          - not_null
+      - name: fear_level
+        description: Numeric fear level (1-5) derived from thrill_level
+        tests:
+          - not_null
+
+  - name: stg_external_haunted__haunted_house_tickets
+    description: Ticket sales assigned to haunted houses
+    columns:
+      - name: ticket_id
+        description: Primary key for ticket records
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+      - name: haunted_house_id
+        tests:
+          - not_null
